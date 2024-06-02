@@ -1,1 +1,1 @@
-![Entity Relationship diagram for Shopping app](/Users/divyamaddipatla/Desktop/UI/public/images)
+![Entity Relationship diagram for Shopping](image.png)
