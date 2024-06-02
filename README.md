@@ -1,1 +1,1 @@
-![Entity Relationship diagram for Shopping](image.png)
+![Entity Relationship diagram for Shopping](/public/images/ER-UI.png)
